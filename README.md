@@ -26,7 +26,6 @@ Demonstrar compreensão sobre:
 - Uso de funções de segurança (`htmlspecialchars`).
 - Lógica de programação básica.
 
-> **Nota**: O foco é a lógica de programação. O CSS é básico, mas pode ser melhorado.
 
 ## 👨‍💻 Autor
 Desenvolvido por Pedro Henrique Oliveira de Abreu para a disciplina de Desenvolvimento de Sistemas.
